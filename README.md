@@ -1,4 +1,16 @@
-# github.com/speakeasy-sdks/bolt-alpha-spec
+# Bolt Alpha (SDK & Mock Server)
+
+## Try These APIs Instantly
+
+Want to test the API without setting up the backend?  Click the button below to launch a free mock server on Beeceptor. It fetches the OpenAPI spec and simulates real responses based on your definitions.
+
+<a href="https://beeceptor.com/openapi-mock-server/?url=https://raw.githubusercontent.com/speakeasy-sdks/bolt-alpha-spec/refs/heads/main/openapi.yaml" target="_blank">
+  <img src="https://cdn.beeceptor.com/assets/images/buttons/mock-openapi-with-beeceptor.png" alt="Mock These APIs Instantly" style="height: 75px;">
+</a>
+
+---
+
+If you're integrating with Go, follow the instructions below for SDK usage.
 
 <!-- Start SDK Installation [installation] -->
 ## SDK Installation
